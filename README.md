@@ -1,14 +1,14 @@
-# IndexedDB API and IDB library (IndexedDB with Promise) CRUD
-Comparison between native IndexedDB API and using IDB library in operating CRUD workaround
+# IndexedDB API
+
 ## Demo
-* [IndexedDb API Demo](#)
+* [IndexedDb API Demo](https://adebugslife.github.io/indexeddb-crud-demo)
 
 ## Coverage
-1. [Create Database and Table](#)
-1. [Create](#)
-2. [Read](#)
-3. [Update](#)
-4. [Delete](#)
+1. [Create Database and Table](https://github.com/adebugslife/indexeddb-crud-demo#create-database-and-table)
+1. [Create](https://github.com/adebugslife/indexeddb-crud-demo#create)
+2. [Read](https://github.com/adebugslife/indexeddb-crud-demo#read)
+3. [Update](https://github.com/adebugslife/indexeddb-crud-demo#update)
+4. [Delete](https://github.com/adebugslife/indexeddb-crud-demo#delete)
 
 ## Create Database and Table
 
